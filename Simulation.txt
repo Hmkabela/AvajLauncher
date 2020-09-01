@@ -1,0 +1,199 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1): sun's out,smooth sailing all the way. Baloons wont crash
+Baloon#B2(2): oh snap there's snow ahead, keep your eyes open, it wont help though.
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): it's raining, be careful.
+Helicopter#H2(5): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H3(6): it's raining, be careful.
+Baloon#B3(7): oh snap there's snow ahead, keep your eyes open, it wont help though.
+JetPlane#J2(8): it's getting foggy, can you still see?. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's getting foggy, can you still see?.
+Baloon#B1(1): it's raining, be careful. Risky flying a baloon
+Baloon#B2(2): it's raining, be careful. Risky flying a baloon
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H3(6): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Baloon#B3(7): it's getting foggy, can you still see?. We need a windscreen
+JetPlane#J2(8): it's getting foggy, can you still see?. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Baloon#B1(1): it's raining, be careful. Risky flying a baloon
+Baloon#B2(2): oh snap there's snow ahead, keep your eyes open, it wont help though.
+JetPlane#J1(3): it's raining, be careful. Dont go too fast
+Helicopter#H1(4): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H2(5): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H3(6): it's raining, be careful.
+Baloon#B3(7): oh snap there's snow ahead, keep your eyes open, it wont help though.
+JetPlane#J2(8): it's getting foggy, can you still see?. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): sun's out,smooth sailing all the way. Fly Chopper Fly
+Baloon#B1(1): it's raining, be careful. Risky flying a baloon
+Baloon#B2(2): oh snap there's snow ahead, keep your eyes open, it wont help though.
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H3(6): it's getting foggy, can you still see?.
+Baloon#B3(7): oh snap there's snow ahead, keep your eyes open, it wont help though.
+Tower says: Houston we have a problem ... Baloon#B3(7) is preparing to land, how sad.
+Tower says: Baloon#B3(7) has landed safely and was unregistered.
+Helicopter#H4(9): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Baloon#B1(1): it's raining, be careful. Risky flying a baloon
+Baloon#B2(2): it's getting foggy, can you still see?. We need a windscreen
+JetPlane#J1(3): oh snap there's snow ahead, keep your eyes open. Stick to the speed limit
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H3(6): it's raining, be careful.
+JetPlane#J2(8): it's getting foggy, can you still see?. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's getting foggy, can you still see?.
+Baloon#B1(1): oh snap there's snow ahead, keep your eyes open, it wont help though.
+Tower says: Houston we have a problem ... Baloon#B1(1) is preparing to land, how sad.
+Tower says: Baloon#B1(1) has landed safely and was unregistered.
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): it's getting foggy, can you still see?.
+JetPlane#J2(8): it's raining, be careful. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's raining, be careful.
+Baloon#B2(2): it's raining, be careful. Risky flying a baloon
+JetPlane#J1(3): it's getting foggy, can you still see?. Dont go too fast
+Helicopter#H1(4): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+JetPlane#J2(8): sun's out,smooth sailing all the way. Remeber speed kills
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's getting foggy, can you still see?.
+Baloon#B2(2): sun's out,smooth sailing all the way. Baloons wont crash
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): it's getting foggy, can you still see?.
+Helicopter#H3(6): sun's out,smooth sailing all the way. Fly Chopper Fly
+JetPlane#J2(8): it's getting foggy, can you still see?. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's raining, be careful.
+Baloon#B2(2): oh snap there's snow ahead, keep your eyes open, it wont help though.
+Tower says: Houston we have a problem ... Baloon#B2(2) is preparing to land, how sad.
+Tower says: Baloon#B2(2) has landed safely and was unregistered.
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): it's getting foggy, can you still see?.
+JetPlane#J2(8): oh snap there's snow ahead, keep your eyes open. Stick to the speed limit
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): sun's out,smooth sailing all the way. Fly Chopper Fly
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H2(5): it's getting foggy, can you still see?.
+Helicopter#H3(6): it's getting foggy, can you still see?.
+JetPlane#J2(8): oh snap there's snow ahead, keep your eyes open. Stick to the speed limit
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's getting foggy, can you still see?.
+JetPlane#J1(3): it's getting foggy, can you still see?. Dont go too fast
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H3(6): sun's out,smooth sailing all the way. Fly Chopper Fly
+JetPlane#J2(8): sun's out,smooth sailing all the way. Remeber speed kills
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's raining, be careful.
+JetPlane#J1(3): it's raining, be careful. Dont go too fast
+Helicopter#H1(4): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): it's raining, be careful.
+JetPlane#J2(8): sun's out,smooth sailing all the way. Remeber speed kills
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's raining, be careful.
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H3(6): it's raining, be careful.
+JetPlane#J2(8): it's getting foggy, can you still see?. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's raining, be careful.
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+JetPlane#J2(8): it's raining, be careful. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+JetPlane#J1(3): it's getting foggy, can you still see?. Dont go too fast
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): it's raining, be careful.
+JetPlane#J2(8): oh snap there's snow ahead, keep your eyes open. Stick to the speed limit
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's getting foggy, can you still see?.
+JetPlane#J1(3): it's getting foggy, can you still see?. Dont go too fast
+Helicopter#H1(4): it's getting foggy, can you still see?.
+Helicopter#H2(5): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H3(6): it's raining, be careful.
+JetPlane#J2(8): it's getting foggy, can you still see?. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): it's raining, be careful.
+JetPlane#J1(3): oh snap there's snow ahead, keep your eyes open. Stick to the speed limit
+Helicopter#H1(4): it's getting foggy, can you still see?.
+Helicopter#H2(5): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H3(6): sun's out,smooth sailing all the way. Fly Chopper Fly
+JetPlane#J2(8): it's raining, be careful. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+Helicopter#H4(9): sun's out,smooth sailing all the way. Fly Chopper Fly
+Tower says: Houston we have a problem ... Helicopter#H4(9) is preparing to land, how sad.
+Tower says: Helicopter#H4(9) has landed safely.
+JetPlane#J1(3): it's getting foggy, can you still see?. Dont go too fast
+Helicopter#H1(4): it's raining, be careful.
+Helicopter#H2(5): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H3(6): sun's out,smooth sailing all the way. Fly Chopper Fly
+JetPlane#J2(8): it's raining, be careful. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+JetPlane#J1(3): oh snap there's snow ahead, keep your eyes open. Stick to the speed limit
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H3(6): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+JetPlane#J2(8): it's raining, be careful. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): sun's out,smooth sailing all the way. Fly Chopper Fly
+JetPlane#J2(8): it's raining, be careful. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+JetPlane#J1(3): it's raining, be careful. Dont go too fast
+Helicopter#H1(4): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H2(5): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H3(6): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+JetPlane#J2(8): it's getting foggy, can you still see?. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+JetPlane#J1(3): it's getting foggy, can you still see?. Dont go too fast
+Helicopter#H1(4): it's getting foggy, can you still see?.
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): it's raining, be careful.
+JetPlane#J2(8): sun's out,smooth sailing all the way. Remeber speed kills
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+JetPlane#J1(3): sun's out,smooth sailing all the way. Remeber speed kills
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): it's raining, be careful.
+Helicopter#H3(6): it's raining, be careful.
+JetPlane#J2(8): sun's out,smooth sailing all the way. Remeber speed kills
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+JetPlane#J1(3): oh snap there's snow ahead, keep your eyes open. Stick to the speed limit
+Helicopter#H1(4): oh snap there's snow ahead, keep your eyes open. Dont let the rotor freeze
+Helicopter#H2(5): it's getting foggy, can you still see?.
+Helicopter#H3(6): it's getting foggy, can you still see?.
+JetPlane#J2(8): oh snap there's snow ahead, keep your eyes open. Stick to the speed limit
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
+JetPlane#J1(3): it's getting foggy, can you still see?. Dont go too fast
+Helicopter#H1(4): sun's out,smooth sailing all the way. Fly Chopper Fly
+Helicopter#H2(5): it's getting foggy, can you still see?.
+Helicopter#H3(6): it's getting foggy, can you still see?.
+JetPlane#J2(8): it's raining, be careful. Dont go too fast
+Tower says: JetPlane#J2(8) you are flying too high, keep it steady.
