@@ -1,6 +1,6 @@
 package avaj;
 import java.util.*;
-public class Tower
+public abstract class Tower
 {
     private List <Flyable> observers = new ArrayList<Flyable>();
     public void register(Flyable flyable)

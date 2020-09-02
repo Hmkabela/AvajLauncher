@@ -24,12 +24,12 @@ public class Simulator {
                 String udata[][] = new String[data.size()][6];
                 times = Integer.parseInt(data.get(0));
                 validate(data, i, udata,times);
-                AircraftFactory af = new AircraftFactory();
+                //AircraftFactory af = new AircraftFactory();
                 WeatherTower wt = new WeatherTower();
                 i = 0;
                 while(i < udata.length - 1)
                 {
-                    af.newAircraft(udata[i][0], udata[i][1], Integer.parseInt(udata[0][3]), Integer.parseInt(udata[i][4]), Integer.parseInt(udata[i][5])).registerTower(wt);
+                    AircraftFactory.newAircraft(udata[i][0], udata[i][1], Integer.parseInt(udata[0][3]), Integer.parseInt(udata[i][4]), Integer.parseInt(udata[i][5])).registerTower(wt);
                     i++;
                 }
                 while(times > 0)

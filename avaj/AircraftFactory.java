@@ -1,8 +1,8 @@
 package avaj;
 
-public class AircraftFactory
+public abstract class AircraftFactory
 {
-    public Flyable newAircraft(String type, String name, int longitude, int latitude, int height)
+    public static Flyable newAircraft(String type, String name, int longitude, int latitude, int height)
     {
         Coordinates co = new Coordinates(longitude, latitude, height);
         if(type != null)
