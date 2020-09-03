@@ -67,7 +67,7 @@ public class Simulator {
                 udata[i - 1][5] = arr[4];
                 if(Integer.parseInt(udata[i - 1][3]) < 1 || Integer.parseInt(udata[i - 1][4]) < 1 || Integer.parseInt(udata[i - 1][5]) < 1)
                 {
-                    System.out.print("Coordinates cannot equal or less than zero!!!!\n");
+                    System.out.print("Coordinates cannot be equal or less than zero!!!!\n");
                     System.exit(1);
                 }
                 i++;
