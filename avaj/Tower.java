@@ -19,11 +19,8 @@ public abstract class Tower
         while(i < observers.size())
         {
             observers.get(i++).updateConditions();
-            if(deregistered == true)
-            {
-                i--;
-                deregistered = false;
-            }
+            i = (deregistered == true) ? --i : i;
+            deregistered = false;
         }
     }
 
