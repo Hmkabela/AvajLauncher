@@ -24,7 +24,6 @@ public class Simulator {
                 String udata[][] = new String[data.size()][6];
                 times = Integer.parseInt(data.get(0));
                 validate(data, i, udata,times);
-                //AircraftFactory af = new AircraftFactory();
                 WeatherTower wt = new WeatherTower();
                 i = 0;
                 while(i < udata.length - 1)
@@ -66,6 +65,11 @@ public class Simulator {
                 udata[i - 1][3] = arr[2];
                 udata[i - 1][4] = arr[3];
                 udata[i - 1][5] = arr[4];
+                if(Integer.parseInt(udata[i - 1][3]) < 1 || Integer.parseInt(udata[i - 1][4]) < 1 || Integer.parseInt(udata[i - 1][5]) < 1)
+                {
+                    System.out.print("Coordinates cannot equal or less than zero!!!!\n");
+                    System.exit(1);
+                }
                 i++;
             }
             while (n < data.size() - 1)
